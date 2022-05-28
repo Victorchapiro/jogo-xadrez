@@ -2,6 +2,7 @@ package programa;
 
 public class Principal {
     public static void main(String[] args) {
-        System.out.println("iniciar o jogo");
+        Posição pos = new Posição(3,5);
+        System.out.println(pos);
     }
 }
