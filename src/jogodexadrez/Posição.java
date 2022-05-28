@@ -1,4 +1,4 @@
-package programa;
+package jogodexadrez;
 
 public class Posição {
     private int linha;
